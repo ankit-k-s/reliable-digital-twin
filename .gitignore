@@ -1,0 +1,11 @@
+# Ignore the data folder completely
+data/
+
+# Ignore Python environments and cache
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
