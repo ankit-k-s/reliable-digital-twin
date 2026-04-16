@@ -1,0 +1,7 @@
+{
+    "model_type": "IT-DT",
+    "pa_f1_score": 0.6523786844472668,
+    "optimal_threshold_raw": 1361015805.9025388,
+    "optimal_threshold_normalized": 0.3158055689719105,
+    "separation_ratio": 7.490644945432544
+}
